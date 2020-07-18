@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Michael Ellis",
+    "description": "Welcome to my portfolio page!",
+    "image": "self-photo.jpg",
+    "bio": "I'm passionate about software development, helping people, and solving problems. I've developed several successful enterprise and personal applications. Please feel free to contact to me!",
+    "contactmessage": "If you would like to discuss any of my work or something related you can send me a message here. I enjoy learning and meeting new people so please don't hesitate to reach out!",
+    "email": "Michael94Ellis@gmail.com",
+    "phone": "919-610-4365",
+    "github": "https://github.com/michael94ellis",
+    "linkedin": "https://www.linkedin.com/in/michael-ellis-a96ba7103/",
+    "address": {
+      "city": "Cary",
+      "state": "NC"
+    },
+    "resumedownload": "https://drive.google.com/file/d/18hlYNXXYXdqkJsNE6rToR-P9B0PAb59n/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/michaellis94",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michael-ellis-a96ba7103/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/m_ellis94/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/michael94ellis",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "UNC Charlotte",
+        "degree": "B.S. Computer Science",
+        "graduated": "June 2017",
+        "gpa": "3.55",
+        "description": "At UNC Charlotte I focused on software engineering. I excelled in all degree related courses such as Mobile Application Development, Data Structures, Algorithms, Parallel Programming, and Microprocessors. I'm a lifelong learner and I strive to make the most of my experiences at UNCC. "
+      }
+    ],
+    "work": [
+      {
+        "company": "Duke Energy",
+        "title": "Software Engineer",
+        "years": "October 2017 - Present",
+        "descriptions": [
+          "Lead iOS developer for an enterprise app with over 2,000 users",
+          "Utilized Core Data and multi-threading for quick data syncs and offline functionality",
+          "Fixed all crashes upon joining app team and greatly reduced sync times",
+          "Contributed to and maintained internal iOS frameworks",
+          "Designed and programmed features to comply with industry regulations",
+          "Created PowerBI reports for enterprise’s Jira by creating database views",
+          "Maintained, supported, and improved a 10,000 user Enterprise Jira instance"
+        ]
+      },
+      {
+        "company": "UNC Charlotte UCAE",
+        "title": "Computer Science and Math Tutor",
+        "years": "August 2016 - May 2017",
+        "descriptions": [
+          "Assisted students with understanding technical concepts such as data structures",
+          "Demonstrated and taught effective problem solving skills and use of resources"
+        ]
+      },
+      {
+        "company": "Piedmont Natural Gas",
+        "title": "Software Developer Intern",
+        "years": "May 2016 - August 2016",
+        "descriptions": [
+          "Developed a PowerShell module to perform document replacements and transfers for a company merger with Duke Energy",
+          "Developed data manipulation and migration scripts using PowerShell for testing",
+          "Designed and updated user interfaces for SharePoint sites and forms"
+        ]
+      }
+    ],
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skills": [
+      {
+        "name": "Swift",
+        "level": "90%"
+      },
+      {
+        "name": "iOS",
+        "level": "90%"
+      },
+      {
+        "name": "Application Development",
+        "level": "90%"
+      },
+      {
+        "name": "Databases(SQL and NoSQL)",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Jira and Jira Administration",
+        "level": "95%"
+      },
+      {
+        "name": "Agile/Scrum",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "iTello Drone Controller",
+        "category": "A Native iOS DJI Tello Drone Controller",
+        "image": "iTello-app.png",
+        "url": "https://apps.apple.com/us/app/itello/id1514697615"
+      },
+      {
+        "title": "JSON Vistas",
+        "category": "A SwiftUI app for generating AutoLayout Format Strings",
+        "image": "JSONVistas.jpg",
+        "url": "https://github.com/michael94ellis/JsonVistas"
+      }
+    ]
+  }
+}
