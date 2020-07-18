@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "michael94ellis.github.io/michael94ellis",
+  "homepage": "http://michael94ellis.github.io/michael94ellis",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
