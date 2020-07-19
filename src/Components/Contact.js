@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import emailjs from 'emailjs-com';
+import ReactDOM from 'react-dom';
 
 class Contact extends Component {
    render() {
@@ -17,6 +18,8 @@ class Contact extends Component {
       function sendEmail(event) {
          event.preventDefault();
 
+
+         document.getElementById("contactForm").reset();
          emailjs.sendForm('gmail', 'template_Ld4HyPmH', event.target, 'user_MgXhSWu5PXYTqlSac9TXt')
             .then((result) => {
                console.log(result.text);

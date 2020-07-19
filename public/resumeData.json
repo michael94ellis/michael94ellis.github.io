@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm always learning new skills. Here are some of the technologies I've spent the most time with and my proficiency with them.",
     "skills": [
       {
         "name": "Swift",

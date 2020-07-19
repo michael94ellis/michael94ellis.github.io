@@ -10,13 +10,15 @@
     "jquery": "^3.5.1",
     "particles-bg": "^2.3.12",
     "react": "^16.2.0",
+    "react-alert": "^7.0.2",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "react-toast-notifications": "^2.4.0"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
